@@ -4,7 +4,6 @@
 # chsh --shell /bin/zsh razak
 # grep razak /etc/passwd
 # echo $HELL
-# npm install -g typescript-language-server
 
 # Requirements
 # zsh

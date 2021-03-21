@@ -14,3 +14,6 @@ cd luarocks-3.3.1
 ./configure --with-lua-include=/usr/include
 make
 sudo make install
+
+# lua-format
+luarocks install --server=https://luarocks.org/dev luaformatter
